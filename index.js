@@ -1,7 +1,7 @@
 // Code your solutions in this file
 function countdown(input){
   let i= input;
-while (0<i) {
+while (-1<i) {
   console.log(i--);
 }
 }
